@@ -69,7 +69,6 @@
 			, <&gpio0 24 GPIO_ACTIVE_HIGH>
 			;
 	};
-
 	ext-power {
 		compatible = "zmk,ext-power-generic";
 		label = "EXT_POWER";
